@@ -5,7 +5,7 @@ portfolio data → automated cleaning & validation → SQL aggregation →
 interactive dashboard, with a stakeholder-ready summary report generated
 alongside it.
 
-**[Live Dashboard →](#deployment)** *(add your Streamlit Cloud link here after deploying)*
+**[Live Dashboard →](#deployment)** https://debtsight--collections-credit-risk-dqiogtakhxt32xd8enuo2b.streamlit.app/
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
