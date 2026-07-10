@@ -1,0 +1,21 @@
+report_section,dpd_bucket,loan_count,total_exposure,avg_loan_size,pct_of_portfolio,segment,total_loans,delinquent_loans,delinquency_rate_pct,loan_type,recovery_rate_pct,avg_dpd
+delinquency_by_bucket,0 - Current,1008.0,266416168.87,264301.7548313492,57.46864310148233,,,,,,,
+delinquency_by_bucket,1-30 DPD,341.0,79172910.91,232178.62436950146,19.44127708095781,,,,,,,
+delinquency_by_bucket,31-60 DPD,223.0,77649174.74,348202.577309417,12.713797035347776,,,,,,,
+delinquency_by_bucket,61-90 DPD,135.0,30609598.21,226737.76451851852,7.696693272519955,,,,,,,
+delinquency_by_bucket,90+ DPD,47.0,14220690.09,302567.8742553191,2.679589509692132,,,,,,,
+delinquency_by_segment,,,,,,Corporate,343.0,152.0,44.31486880466473,,,
+delinquency_by_segment,,,,,,Microfinance,371.0,162.0,43.66576819407008,,,
+delinquency_by_segment,,,,,,Retail,345.0,150.0,43.47826086956522,,,
+delinquency_by_segment,,,,,,Agri,340.0,139.0,40.88235294117647,,,
+delinquency_by_segment,,,,,,SME,355.0,143.0,40.28169014084507,,,
+recovery_by_loan_type,,,,,,,,,,Auto,31.62016352636636,
+recovery_by_loan_type,,,,,,,,,,Business,31.544293606688214,
+recovery_by_loan_type,,,,,,,,,,Education,36.385824905130036,
+recovery_by_loan_type,,,,,,,,,,Home,38.088829373696136,
+recovery_by_loan_type,,,,,,,,,,Personal,28.655948872524633,
+avg_dpd_by_loan_type,,,,,,,,,,Home,,20.52887537993921
+avg_dpd_by_loan_type,,,,,,,,,,Education,,19.946478873239435
+avg_dpd_by_loan_type,,,,,,,,,,Personal,,17.401554404145077
+avg_dpd_by_loan_type,,,,,,,,,,Auto,,17.055072463768116
+avg_dpd_by_loan_type,,,,,,,,,,Business,,15.59882005899705
