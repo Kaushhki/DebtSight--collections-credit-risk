@@ -123,8 +123,8 @@ invalid values — before the data ever reaches the dashboard or SQL layer.
 ## Running locally
 
 ```bash
-git clone https://github.com/<your-username>/collections-credit-risk.git
-cd collections-credit-risk
+git clone https://github.com/Kaushhki/DebtSight--collections-credit-risk.git
+cd DebtSight--collections-credit-risk
 pip install -r requirements.txt
 
 # Optional — regenerate data from scratch (raw + clean CSVs are already
